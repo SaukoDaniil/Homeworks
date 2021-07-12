@@ -1,0 +1,16 @@
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.exe
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.deps.json
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.runtimeconfig.json
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.runtimeconfig.dev.json
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.dll
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\ref\HomeWork_07_1.dll
+C:\Users\117Ro\source\repos\HomeWork_07_1\bin\Debug\net5.0\HomeWork_07_1.pdb
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.AssemblyInfoInputs.cache
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.AssemblyInfo.cs
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.csproj.CoreCompileInputs.cache
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.dll
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\ref\HomeWork_07_1.dll
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.pdb
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.genruntimeconfig.cache
+C:\Users\117Ro\source\repos\HomeWork_07_1\obj\Debug\net5.0\HomeWork_07_1.csproj.AssemblyReference.cache
